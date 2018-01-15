@@ -10,3 +10,11 @@ git clone https://github.com/StephenGrider/UpStarMusic.git
 cd UpStarMusic
 npm install
 ```
+
+## lecture 72
+Artist and Album models
+![Artist and Album models](https://i.imgur.com/sAJjiUx.png)
+
+## lecture 73
+- create album schema (just schema, not a model like artist)
+  + revenue: number
